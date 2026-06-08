@@ -3,7 +3,7 @@
 // Author     :BAGIRADHAN S
 // e-mail     :bagiradhansrinivasan@gmail.com
 // Project    :APB protocol
-// Description:This file is implements the apb test
+// Description:This file is implements the apb read followed by write test
 // Date       :04/03/2026
 //
 //***************************************//
